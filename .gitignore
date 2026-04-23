@@ -1,0 +1,29 @@
+# Python bytecode and caches
+__pycache__/
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local databases and runtime state
+*.db
+jobs.db
+urlcache.db
+
+# Build and packaging artifacts
+build/
+dist/
+*.spec
+
+# IDE/editor files
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Docker/runtime noise
+*.log

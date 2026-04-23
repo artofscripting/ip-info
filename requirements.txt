@@ -1,0 +1,9 @@
+cryptography
+dnspython
+Flask
+pydnsbl
+requests
+urllib3
+webtech
+python-whois
+urlcache2db
